@@ -9,7 +9,7 @@ module.exports = {
   //==========================================- MAIN - CONFIGS -==================================================================
   SESSION_ID: process.env.SESSION_ID || "",
 // For extra thing : BHASHI-MD~(megafileid)
-  MONGODB: process.env.MONGODB || "",
+  MONGODB: process.env.MONGODB || "mongodb+srv://chethmina:Chetha123@cluster0.3vzso.mongodb.net/",
 
     
  
